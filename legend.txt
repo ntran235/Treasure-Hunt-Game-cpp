@@ -1,0 +1,8 @@
+Legend:
+$ - Player treasure
+H - Player hit
+M - Player miss
+X - Computer hit
+O - Computer miss
+. - Unsearched space
+-----------------------
